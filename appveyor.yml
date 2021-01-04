@@ -1,0 +1,3 @@
+build_script:
+  - cd c:\
+  - dir /s uuidgen.exe
